@@ -3,7 +3,7 @@
 ## AIM:
 
 ## ALGORITHM:
-### Step :
+### Step 1 :
 1import numpy module
 
 ### Step 2:
@@ -14,17 +14,18 @@ Get the input of the variables n and m
 Loop a variable i in the range of n and nest loop a variable j in range m
 
 
-### Step 5:Get the value of nump variables
+### Step 5:
+Get the value of nump variables
 
-###step 6:
+### step 6:
 During the loop append the nump values to l1 and l1values to list l2
 
-###step 7:
+### step 7:
 Declare a variable value 1 and l2 by converting to an array
-###step 8:
+### step 8:
 Declare a variable inverse,using numpy module's linalg and inv functions find the inverse of l2
 
-###step 9:
+### step 9:
 Print the values of inverse
 
 
