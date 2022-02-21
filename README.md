@@ -1,6 +1,7 @@
 # Inverse-of-matrix
 
 ## AIM:
+To find the inverse of two matrices.
 
 ## ALGORITHM:
 ### Step 1 :
@@ -54,3 +55,4 @@ print(inverse)
 ![](anitha.png)
 
 ## RESULT:
+Therefor the above code is successfully executed to find the inverse of a matrix.
