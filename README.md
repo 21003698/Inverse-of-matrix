@@ -35,6 +35,8 @@ Print the values of inverse
 
 ## PROGRAM:
 ~~~
+##Developed by:sandeep challa
+##Register number:21003698
 import numpy as np
 l1,l2=[],[]
 n1,n2=int(input()),int(input())
